@@ -118,7 +118,7 @@
 ### 코드 스타일 (C++)
 
 - 클래스명: UE5 표준 접두사 적용 (`A`, `U`, `F`, `E`, `I`)
-- 멤버 변수: `m_` 접두사 + CamelCase (예: `m_CharacterHP`)
+- 멤버 변수: CamelCase (예: `CharacterHP`)
 - 함수명: PascalCase (예: `GetCurrentCharacter()`)
 - 주석: `/** */` Doxygen 형식 → [자동 생성 API 문서](https://paradiseproject.github.io/ParadiseProject_Docs/)
 
