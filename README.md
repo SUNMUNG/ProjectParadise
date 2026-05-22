@@ -62,10 +62,10 @@
 
 | 기능 | Windows (Key) | Android (UI) | 동작 정의 |
 | :--- | :---: | :---: | :--- |
-| **캐릭터 이동** | <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> | 가상 조이스틱 (좌측 하단) | 8방향 자유 이동 및 이동 속도 비례 애니메이션 |
+| **캐릭터 이동** | <kbd>W</kbd> <kbd>A</kbd> <kbd>S</kbd> <kbd>D</kbd> | 가상 조이스틱 (좌측 하단) | 현재 캐릭터로 이동 |
 | **캐릭터 태그** | <kbd>U</kbd> <kbd>I</kbd> <kbd>O</kbd> | 캐릭터 아이콘 (우측 상단) | 해당 번호 캐릭터로 즉시 교체 |
 | **기본 공격** | <kbd>J</kbd> | 공격 버튼 (우측 하단) | 장착된 무기로 고유 공격 |
-| **무기 스킬** | <kbd>K</kbd> | 스킬 아이콘 (공격 버튼 좌측) | 장착된 무기로 콤보 공격 |
+| **무기 스킬** | <kbd>K</kbd> | 스킬 아이콘 (공격 버튼 좌측) | 장착된 무기로 스킬 공격 |
 | **궁극기 (필살기)** | <kbd>L</kbd> | 궁극기 아이콘 (공격 버튼 상단) | 캐릭터의 고유한 궁극기 사용 |
 | **퍼밀리어 소환** | <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>4</kbd> <kbd>5</kbd> | 퍼밀리어 슬롯 (중앙 하단) | 슬롯에 등록된 유닛 소환 |
 
@@ -170,8 +170,8 @@ docs: API 문서 Controls 섹션 업데이트
 
 | 이름 | 역할 | GitHub |
 |:---:|:---:|:---:|
-| 유성민 |    | [@SUNMUNG](https://github.com/SUNMUNG) |
-| 김성현 | 　 | [@github-id](https://github.com/) |
-| 김수진 | 　 | [@github-id](https://github.com/) |
-| 김민준 | 　 | [@github-id](https://github.com/) |
-| 최지원 | 　 | [@github-id](https://github.com/) |
+| 김성현 | 코어 시스템 및 프레임워크 |[@SUNMUNG](https://github.com/SUNMUNG) |
+| 유성민 | GAS & 데이터 테이블 | [@github-id](https://github.com/) |
+| 김수진 | 애니메이션 및 코스트 시스템 | [@github-id](https://github.com/) |
+| 김민준 | 퍼밀리어 스포너 및 기지 | [@github-id](https://github.com/) |
+| 최지원 | UI & 가챠 시스템 | [@github-id](https://github.com/) |
