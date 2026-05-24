@@ -37,7 +37,7 @@
 ## 🎬 시연 영상
 
 <p align="center">
-  <a href="https://youtube.com/링크를_입력하세요">
+  <a href="https://youtu.be/BY0DM_Fi8m8?si=co0-6OHIr317Ti5O">
     <img src="./assets/thumbnail.png" alt="Demo Video" width="70%"/>
   </a>
 </p>
