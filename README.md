@@ -1,7 +1,7 @@
 # 🌴 Project Paradise
 
 <p align="center">
-  <img src="./assets/cover.png" alt="Project Paradise Cover" width="100%"/>
+  <img src="./assets/cover.png" alt="Project Paradise Cover" width="40%"/>
 </p>
 
 <p align="center">
@@ -38,7 +38,7 @@
 
 <p align="center">
   <a href="https://youtu.be/BY0DM_Fi8m8?si=co0-6OHIr317Ti5O">
-    <img src="./assets/thumbnail.png" alt="Demo Video" width="70%"/>
+    <img src="./assets/thumbnail.png" alt="Demo Video" width="30%"/>
   </a>
 </p>
 
