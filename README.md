@@ -48,11 +48,14 @@
 
 | 기능 | 설명 | 코드 바로가기 |
 |:---|:---|:---:|
-| 태그 시스템 | 전투 중 최대 3인 캐릭터를 키/버튼 입력으로 실시간 교체 | [바로가기](./Source/Paradise/) |
-| 타워 디펜스 | 코스트 기반 퍼밀리어 소환  | [바로가기](./Source/Paradise/) |
-| 무기 스킬 & 궁극기 | GAS(GameplayAbilitySystem) 기반 캐릭터 고유 콤보 및 필살기 | [바로가기](./Source/Paradise/) |
-| 크로스 플랫폼 입력 | PC 키보드 / 모바일 가상 조이스틱 동시 지원 (CommonUI) | [바로가기](./Source/Paradise/) |
-| AI 퍼밀리어 | AIModule 기반 소환 유닛 자율 행동 | [바로가기](./Source/Paradise/) |
+| 태그 시스템 | 전투 중 최대 3인 캐릭터를 키/버튼 입력으로 실시간 교체 | [바로가기](./Source/Paradise/Public/Components/SquadControlComponent.h) |
+| 퍼밀리어 소환 | 코스트 기반 퍼밀리어 소환 | [바로가기](./Source/Paradise/Public/Components/FamiliarSummonComponent.h) |
+| 무기 스킬 & 궁극기 | GAS(GameplayAbilitySystem) 기반 캐릭터 고유 콤보 및 필살기 | [바로가기](./Source/Paradise/Public/GAS/Abilities/BaseGameplayAbility.h) |
+| 크로스 플랫폼 입력 | PC 키보드 / 모바일 가상 조이스틱 동시 지원 (CommonUI) | [바로가기](./Source/Paradise/Public/Data/Assets/ParadiseInputConfig.h) |
+| AI 퍼밀리어 | AIModule 기반 소환 유닛 자율 행동 | [바로가기](./Source/Paradise/Public/Objects/FamiliarSpawner.h) |
+| 자동 전투 | 타겟팅·이동·스킬 우선순위 자동화 및 스마트 카메라 | [바로가기](./Source/Paradise/Public/Components/AutoCombatComponent.h) |
+| 재화 시스템 | 재화(골드·에테르·소환권) 획득·소모·검증 통합 관리 | [바로가기](./Source/Paradise/Public/Framework/System/EconomySubsystem.h) |
+| 성장 시스템 | 캐릭터 레벨업·각성 돌파·장비 강화 통합 관리 | [바로가기](./Source/Paradise/Public/Framework/System/GrowthSubsystem.h) |
 
 ---
 
@@ -70,7 +73,6 @@
 | **퍼밀리어 소환** | <kbd>1</kbd> <kbd>2</kbd> <kbd>3</kbd> <kbd>4</kbd> <kbd>5</kbd> | 퍼밀리어 슬롯 (중앙 하단) | 슬롯에 등록된 유닛 소환 |
 
 ---
-
 
 ## 🗂️ 프로젝트 구조
 
@@ -170,8 +172,8 @@ docs: API 문서 Controls 섹션 업데이트
 
 | 이름 | 역할 | GitHub |
 |:---:|:---:|:---:|
-| 김성현 | 코어 시스템 및 프레임워크 |[@SUNMUNG](https://github.com/SUNMUNG) |
-| 유성민 | GAS & 데이터 테이블 | [@github-id](https://github.com/) |
-| 김수진 | 애니메이션 및 코스트 시스템 | [@github-id](https://github.com/) |
-| 김민준 | 퍼밀리어 스포너 및 기지 | [@github-id](https://github.com/) |
-| 최지원 | UI & 가챠 시스템 | [@github-id](https://github.com/) |
+| 김성현 | 코어 시스템 및 프레임워크 | [@SUNMUNG](https://github.com/SUNMUNG) |
+| 유성민 | GAS & 데이터 테이블 | [@github-id](https://github.com/YouSungMin) |
+| 김수진 | 애니메이션 및 코스트 시스템 | [@github-id](https://github.com/4nijoos) |
+| 김민준 | 퍼밀리어 스포너 및 기지 | [@github-id](https://github.com/zangsa06) |
+| 최지원 | UI & 가챠 시스템 | [@github-id](https://github.com/zeltina99) |
