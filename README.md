@@ -173,7 +173,7 @@ docs: API 문서 Controls 섹션 업데이트
 | 이름 | 역할 | GitHub |
 |:---:|:---:|:---:|
 | 김성현 | 코어 시스템 및 프레임워크 | [@SUNMUNG](https://github.com/SUNMUNG) |
-| 유성민 | GAS & 데이터 테이블 | [@github-id](https://github.com/YouSungMin) |
-| 김수진 | 애니메이션 및 코스트 시스템 | [@github-id](https://github.com/4nijoos) |
-| 김민준 | 퍼밀리어 스포너 및 기지 | [@github-id](https://github.com/zangsa06) |
-| 최지원 | UI & 가챠 시스템 | [@github-id](https://github.com/zeltina99) |
+| 유성민 | GAS & 데이터 테이블 | [@YouSungMin](https://github.com/YouSungMin) |
+| 김수진 | 애니메이션 및 코스트 시스템 | [@4nijoos](https://github.com/4nijoos) |
+| 김민준 | 퍼밀리어 스포너 및 기지 | [@zangsa06](https://github.com/zangsa06) |
+| 최지원 | UI & 가챠 시스템 | [@zeltina99](https://github.com/zeltina99) |
